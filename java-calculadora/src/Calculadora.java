@@ -10,7 +10,7 @@
  * @version 1.0
  * @since 01/01/2022
  */
-public class Calculador {
+public class Calculadora {
   /**
    * Este método é utilizado para somar dois números inteiros.
    * 
