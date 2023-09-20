@@ -1,0 +1,55 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "AboutMe",
+      "request": "launch",
+      "mainClass": "AboutMe",
+      "projectName": "dio-backend-java_96ab02a",
+      "args": [
+        "Paulo",
+        "Pires",
+        "56",
+        "1.70"
+      ]
+    },
+    {
+      "type": "java",
+      "name": "Comentarios",
+      "request": "launch",
+      "mainClass": "Comentarios",
+      "projectName": "dio-backend-java_96ab02a"
+    },
+    {
+      "type": "java",
+      "name": "MInhaClasse",
+      "request": "launch",
+      "mainClass": "MInhaClasse",
+      "projectName": "dio-backend-java_96ab02a"
+    },
+    {
+      "type": "java",
+      "name": "MinhaClasse",
+      "request": "launch",
+      "mainClass": "MinhaClasse",
+      "projectName": "dio-backend-java_96ab02a"
+    },
+    {
+      "type": "java",
+      "name": "Usuario",
+      "request": "launch",
+      "mainClass": "Usuario",
+      "projectName": "dio-backend-java_96ab02a"
+    }
+  ]
+}
