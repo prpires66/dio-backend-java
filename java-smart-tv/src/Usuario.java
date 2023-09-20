@@ -5,5 +5,16 @@ public class Usuario {
         System.out.println("TV Ligada? " + smartTv.ligada);
         System.out.println("Canal Atual ? " + smartTv.canal);
         System.out.println("Volume Atual? " + smartTv.volume);
+
+        smartTv.ligar();
+        smartTv.diminuirVolume();
+        smartTv.diminuirVolume();
+        smartTv.aumentarCanal();
+        System.out.println("TV Ligada? " + smartTv.ligada);
+        System.out.println("Canal Atual ? " + smartTv.canal);
+        System.out.println("Volume Atual? " + smartTv.volume);
+        smartTv.mudarCanal(13);
+        System.out.println("Canal Atual ? " + smartTv.canal);
+
     }
 }
