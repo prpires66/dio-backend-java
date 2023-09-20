@@ -1,23 +1,11 @@
 public class Operadores {
   public static void main(String[] args) {
-    String nomeCompleto = "LINGUAGEM" + "JAVA";
-    System.out.println(nomeCompleto);
+    int a, b;
+    a = 6;
+    b = 5;
 
-    String concatenacao = "?";
-    concatenacao = 1 + 1 + 1 + "1";
-    System.out.println(concatenacao);
+    String resultado = a == b ? "verdadeiro" : "falso";
 
-    concatenacao = 1 + "1" + 1 + 1;
-    System.out.println(concatenacao);
-
-    concatenacao = 1 + "1" + 1 + "1";
-    System.out.println(concatenacao);
-
-    concatenacao = "1" + 1 + 1 + 1;
-    System.out.println(concatenacao);
-
-    concatenacao = "1" + (1 + 1 + 1 + 1);
-    System.out.println(concatenacao);
-
+    System.out.println(resultado);
   }
 }
