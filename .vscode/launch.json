@@ -15,13 +15,7 @@
       "name": "AboutMe",
       "request": "launch",
       "mainClass": "AboutMe",
-      "projectName": "dio-backend-java_96ab02a",
-      "args": [
-        "Paulo",
-        "Pires",
-        "56",
-        "1.70"
-      ]
+      "projectName": "dio-backend-java_96ab02a"
     },
     {
       "type": "java",
