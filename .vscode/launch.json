@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ExemploBreakContinue",
+      "request": "launch",
+      "mainClass": "ExemploBreakContinue",
+      "projectName": "dio-backend-java_96ab02a"
+    },
+    {
+      "type": "java",
       "name": "ExemploForArray",
       "request": "launch",
       "mainClass": "ExemploForArray",
